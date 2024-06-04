@@ -1,0 +1,11 @@
+.image-track {
+  display: flex;
+  transition: transform 0.3s ease;
+}
+
+.image {
+  height: 250px;
+  object-fit: contain;
+  background: white;
+  margin-right: 10px; /* Add margin between images */
+}
